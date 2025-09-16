@@ -1,0 +1,11 @@
+---
+title: "Mara's Marvelous Website"
+---
+
+This is a website created collaboratively with Mara and Merve.
+
+[Mara's Github](https://github.com/marabraddy)
+
+[Merve's Github](https://github.com/mk2748-rgb)
+
+![This is Ithaca where we both are living right now!](https://media.istockphoto.com/id/1433217275/photo/early-afternoon-autumn-aerial-photo-view-of-ithaca-new-york.jpg?s=612x612&w=0&k=20&c=PX5hqxySkRgstJ9SCyOAtyDd4Yk8ZF22dl-xtPkuJEA=){fig-align="center"}
