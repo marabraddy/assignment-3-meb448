@@ -1,5 +1,8 @@
 ---
 title: "Mara's Marvelous Website"
+format:
+  html:
+   theme: Quartz
 ---
 
 This is a website created collaboratively with Mara and Merve.

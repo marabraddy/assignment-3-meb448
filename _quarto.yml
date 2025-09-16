@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - New Page.qmd
+      - M for Mara.qmd
 
 format:
   html:
