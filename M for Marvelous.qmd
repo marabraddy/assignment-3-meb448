@@ -1,5 +1,5 @@
 ---
-title: "Merve's Page on Mara's Marvelous Website"
+title: "M for Marvelous"
 editor: visual
 ---
 

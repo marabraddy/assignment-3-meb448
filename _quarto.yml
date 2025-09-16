@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "assignment-3-meb448"
@@ -8,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - New Page.qmd
+      - M for Marvelous.qmd
       - M for Mara.qmd
 
 format:
