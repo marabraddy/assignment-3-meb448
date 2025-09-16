@@ -1,4 +1,15 @@
 ---
 title: "M for Mara"
 editor: visual
+format:
+  html:
+   theme: Minty
 ---
+
+| Mara's Siblings | Ages |
+|-----------------|------|
+| Mara            | 32   |
+| Jesse           | 31   |
+| Dane            | 29   |
+| Sam             | 26   |
+| Luke            | 21   |
